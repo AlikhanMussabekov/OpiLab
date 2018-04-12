@@ -31,4 +31,8 @@ public class J extends null implements C {
     public void ab() {
         return;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }

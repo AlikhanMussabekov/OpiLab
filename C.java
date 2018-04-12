@@ -7,4 +7,8 @@ public class C extends null {
     public void aa() {
         System.out.println("Hello world!");
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }

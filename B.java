@@ -31,4 +31,8 @@ public class B extends null implements C {
     public int[] ii() {
         return new int[]{0, 1, 2, 3, 4};
     }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
 }
