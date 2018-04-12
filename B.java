@@ -35,4 +35,8 @@ public class B extends null implements C {
     public Object gg() {
         return return getClass().getClassLoader();
     }
+
+    public Object rr() {
+        return null;
+    }
 }

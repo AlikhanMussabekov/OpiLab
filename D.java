@@ -35,4 +35,8 @@ public class D extends null implements C {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public byte oo() {
+        return 3;
+    }
 }
