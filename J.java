@@ -23,4 +23,8 @@ public class J implements C {
     public double ee() {
         return java.lang.Math.PI;
     }
+
+    public int af() {
+        return -1;
+    }
 }

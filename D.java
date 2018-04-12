@@ -23,4 +23,8 @@ public class D implements C {
     public float ff() {
         return 3.14;
     }
+
+    public long dd() {
+        return 100500;
+    }
 }
