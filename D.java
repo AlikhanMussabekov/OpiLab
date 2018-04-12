@@ -1,4 +1,4 @@
-public class D implements C {
+public class D extends null implements C {
 
     private long a = 1234;
 
@@ -22,5 +22,9 @@ public class D implements C {
 
     public float ff() {
         return 3.14;
+    }
+
+    public long dd() {
+        return 100500;
     }
 }

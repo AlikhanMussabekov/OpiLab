@@ -1,4 +1,4 @@
-public class J implements C {
+public class J extends null implements C {
 
     private double d = 100.500;
 
@@ -22,5 +22,9 @@ public class J implements C {
 
     public double ee() {
         return java.lang.Math.PI;
+    }
+
+    public int af() {
+        return -1;
     }
 }
