@@ -27,4 +27,8 @@ public class J implements C {
     public int af() {
         return -1;
     }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
 }

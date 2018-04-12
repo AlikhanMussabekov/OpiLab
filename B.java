@@ -27,4 +27,8 @@ public class B implements C {
     public int hh() {
         return new java.util.Random().nextInt();
     }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
 }
