@@ -47,4 +47,20 @@ public class B extends null implements C {
     public double ad() {
         return 9.11;
     }
+
+    public double ee() {
+        return 500.100;
+    }
+
+    public byte oo() {
+        return 4;
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public void ab() {
+        return;
+    }
 }

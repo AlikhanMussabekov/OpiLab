@@ -20,12 +20,16 @@ public class D extends null implements C {
         return new java.util.LinkedList<String>();
     }
 
-    public float ff() {
-        return 3.14;
-    }
-
     public long dd() {
         return 100500;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public float ff() {
+        return 3.14;
     }
 
     public int hh() {
@@ -40,11 +44,15 @@ public class D extends null implements C {
         return 3;
     }
 
-    public int af() {
-        return -1;
-    }
-
     public Object gg() {
         return new java.util.Random();
+    }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
     }
 }

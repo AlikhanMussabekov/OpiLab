@@ -20,6 +20,10 @@ public class J extends null implements C {
         return new java.util.ArrayList<String>();
     }
 
+    public String kk() {
+        return "Hello world";
+    }
+
     public double ee() {
         return java.lang.Math.PI;
     }
@@ -44,7 +48,15 @@ public class J extends null implements C {
         return this;
     }
 
-    public String kk() {
-        return "Yes";
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
+
+    public long ac() {
+        return 333;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
     }
 }
