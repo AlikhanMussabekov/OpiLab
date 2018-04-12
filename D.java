@@ -39,4 +39,8 @@ public class D extends null implements C {
     public byte oo() {
         return 3;
     }
+
+    public int af() {
+        return -1;
+    }
 }

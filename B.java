@@ -39,4 +39,8 @@ public class B extends null implements C {
     public Object rr() {
         return null;
     }
+
+    public int ae() {
+        return 8;
+    }
 }

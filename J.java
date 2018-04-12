@@ -39,4 +39,8 @@ public class J extends null implements C {
     public int hh() {
         return new java.util.Random(10).nextInt(10);
     }
+
+    public Object pp() {
+        return this;
+    }
 }

@@ -15,4 +15,8 @@ public class C extends null {
     public float ff() {
         return 0;
     }
+
+    public double ee() {
+        return 100.500;
+    }
 }
