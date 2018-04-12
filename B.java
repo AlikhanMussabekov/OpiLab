@@ -31,4 +31,8 @@ public class B implements C {
     public void aa() {
         System.out.println("void aa");
     }
+
+    public int ae() {
+        return java.lang.Math.abs(-7);
+    }
 }

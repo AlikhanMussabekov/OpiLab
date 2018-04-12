@@ -31,4 +31,8 @@ public class J implements C {
     public Object gg() {
         return new java.util.Random();
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }

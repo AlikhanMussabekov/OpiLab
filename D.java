@@ -31,4 +31,8 @@ public class D implements C {
     public void aa() {
         System.out.println("void aa");
     }
+
+    public void ab() {
+        System.out.println("\n");
+    }
 }
