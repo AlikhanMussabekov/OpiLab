@@ -19,8 +19,4 @@ public class B implements C {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
-
-    public float ff() {
-        return 3.14;
-    }
 }
