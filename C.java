@@ -19,4 +19,8 @@ public class C extends null {
     public double ee() {
         return 100.500;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }

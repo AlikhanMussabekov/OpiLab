@@ -43,4 +43,8 @@ public class D extends null implements C {
     public int af() {
         return -1;
     }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
 }

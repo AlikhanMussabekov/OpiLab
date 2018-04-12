@@ -43,4 +43,8 @@ public class B extends null implements C {
     public int ae() {
         return 8;
     }
+
+    public double ad() {
+        return 9.11;
+    }
 }

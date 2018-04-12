@@ -43,4 +43,8 @@ public class J extends null implements C {
     public Object pp() {
         return this;
     }
+
+    public String kk() {
+        return "Yes";
+    }
 }
