@@ -27,4 +27,8 @@ public class J extends null implements C {
     public int af() {
         return -1;
     }
+
+    public void ab() {
+        return;
+    }
 }

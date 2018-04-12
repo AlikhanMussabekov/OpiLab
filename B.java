@@ -27,4 +27,8 @@ public class B extends null implements C {
     public int hh() {
         return new java.util.Random().nextInt();
     }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
 }
