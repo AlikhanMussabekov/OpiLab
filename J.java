@@ -19,4 +19,8 @@ public class J implements C {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
+
+    public double ee() {
+        return java.lang.Math.PI;
+    }
 }
